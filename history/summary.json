@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/server1.denizbektas.xyz.ico",
     "slug": "server1",
     "status": "up",
-    "uptime": "0.86%",
-    "uptimeDay": "0.86%",
-    "uptimeWeek": "0.86%",
-    "uptimeMonth": "0.86%",
-    "uptimeYear": "0.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 327,
     "timeDay": 327,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {
-      "2022-10-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Server2",
