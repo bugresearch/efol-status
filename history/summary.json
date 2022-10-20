@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server1.denizbektas.xyz.ico",
     "slug": "server1",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 339,
-    "timeDay": 254,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 341,
+    "timeDay": 355,
+    "timeWeek": 332,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2022-10-13": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 267,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 360,
+    "timeDay": 359,
+    "timeWeek": 354,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   }
 ]
